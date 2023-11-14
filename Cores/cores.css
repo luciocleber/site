@@ -1,0 +1,20 @@
+
+header{
+
+    background-image: -moz-linear-gradient(to right, white, #bc456c);
+}
+h2{
+    background-color: #0000ff;
+    color: #ffffff;
+}
+
+p{
+    text-align: justify;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+body{
+    background-color: #fefefe;
+}

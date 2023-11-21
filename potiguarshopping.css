@@ -74,7 +74,7 @@ nav > a:hover {
 }
 
 body{
-
+    display: inline-block;
     font-family: garamond, gandara;
 }
 

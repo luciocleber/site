@@ -22,7 +22,6 @@ header{
     display: flex;
     min-width: 300px;
     max-width: 100%;
-    text-align: center;
     color: white;
     font-family:'tenor sans'cambria', sans-serif;
     font-display:unset;
@@ -113,7 +112,7 @@ main img{
     size: 15px;
 }
 .menu{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     min-width: 300px;
     max-width: 100%;
     align-content: space-between;

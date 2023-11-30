@@ -19,6 +19,7 @@
 }
 
 header{
+    display: flex;
     min-width: 300px;
     max-width: 100%;
     text-align: center;

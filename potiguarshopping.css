@@ -35,10 +35,12 @@ header{
 header > .menu{
 
     font-size: 20;
-    
-
 }
 
+.produtosdestaque{
+    display: flex;
+    
+}
 header > h1{
 
     padding: 0%;

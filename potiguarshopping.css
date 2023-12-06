@@ -2,8 +2,15 @@
     box-sizing: border-box;
     margin: 0%;
     
-   
 }
+
+body{
+    display: inline-block;
+    height: 100vh;
+    background-size: cover;
+    font-family: garamond, gandara;
+}
+
 
 .favicon{
     border-radius: 45px;
@@ -75,10 +82,6 @@ nav > a:hover {
     
 }
 
-body{
-    display: inline-block;
-    font-family: garamond, gandara;
-}
 
 .banner{
     margin: 0% auto;

@@ -33,9 +33,8 @@ main{
 
 header{
     display: flex;
-    font-family:'tenor sans'cambria', sans-serif;
-    font-display:unset;
-    background color: blue;
+    font-family:'tenor sans'cambria;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.732), #0000ffa1);
     justify-content: space-between;
     padding: 10px;
     margin:0 px;

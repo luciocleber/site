@@ -35,7 +35,7 @@ header{
     display: flex;
     font-family:'tenor sans'cambria', sans-serif;
     font-display:unset;
-    background-image:linear-gradient(to right, rgba(106, 184, 223), #0000ffa1);
+    background-image:linear-gradient(to right, rgb(106, 184, 223), #0000ff);
     justify-content: space-between;
     padding: 10px;
     margin:0 px;

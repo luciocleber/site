@@ -33,7 +33,6 @@ main{
 
 header{
     display: flex;
-    color: white;
     font-family:'tenor sans'cambria', sans-serif;
     font-display:unset;
     background-image:linear-gradient(to right, rgba(106, 184, 223), #0000ffa1);

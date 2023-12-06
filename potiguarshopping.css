@@ -41,7 +41,6 @@ header{
     font-size: 25px;
 }
 
-}
 
 .banner:hover {
     background-image: linear-gradient(to right, rgba(255, 255, 255, 0.732), #0000ffa1);
@@ -50,12 +49,8 @@ header{
 header > .menu{
 
     font-size: 20;
-}
+}  
 
-.produtosdestaque{
-    display: flex;
-    
-}
 header > h1{
 
     padding: 0%;
@@ -145,7 +140,7 @@ main img{
     color: white;
     padding-left: 0%;
     
-
+}
 
 h1{
     padding-top: 5px;

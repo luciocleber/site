@@ -32,7 +32,7 @@ main{
 }
 
 header{
-    display: flex;
+    display: none;
     font-family:'tenor sans'cambria;
     background-image: linear-gradient(to right, rgba(255, 255, 255, 0.732), #0000ffa1);
     justify-content: space-between;
